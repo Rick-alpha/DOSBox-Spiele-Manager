@@ -3,6 +3,9 @@ DOSBox Spiele-Manager - Beschreibung der UI
 
 Kurzbeschreibung
 ----------------
+
+Benötigt das original DosBox : https://www.dosbox.com/ ein tolles stück software unterstützt die Jungs !
+
 Der DOSBox Spiele-Manager ist eine Windows-Oberflaeche (PowerShell + WinForms),
 mit der du deine DOS-Spielebibliothek in einem Hauptordner verwaltest.
 Die UI hilft dir beim Scannen, Sortieren, Starten und Optimieren deiner Spiele
